@@ -25,3 +25,4 @@ if __name__ == '__main__':
     senha = gerar_senha_forte(tamanho)
     if senha:
         print("Senha gerada:", senha)
+  
