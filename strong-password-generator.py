@@ -26,3 +26,4 @@ if __name__ == '__main__':
     if senha:
         print("Senha gerada:", senha)
   
+  
