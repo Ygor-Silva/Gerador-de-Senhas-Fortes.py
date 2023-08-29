@@ -65,5 +65,8 @@ python gerador_senha.py
 Dessa forma você poderá verificar na prática a eficiência do gerador de senhas aleatórias e testar a segurança das senhas produzidas.
 
 
+https://github.com/Ygor-Silva/Gerador-de-Senhas-Fortes.py/assets/107101341/397e1128-9dbd-46b8-a624-e994405e8569
+
+
 Contribuindo
 Pull requests são bem vindos! Sinta-se à vontade para contribuir com este projeto.# Gerador-de-Senhas-Fortes.py
