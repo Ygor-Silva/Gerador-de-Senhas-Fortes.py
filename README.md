@@ -38,10 +38,31 @@ Por fim, o código principal pede o tamanho da senha ao usuário e exibe o resul
 
 ## Teste Online
 
-Você pode testar uma demo interativa online do gerador de senhas fortes aqui:
+Para testar o código do gerador de senhas aleatórias no site testedesenha.com.br, você pode seguir estes passos:
 
-https://repl.it/@seunome/strong-password-generator-python
+1. Copie o código Python completo para gerar a senha (função gerar_senha_forte() e código principal)
 
+2. Acesse o site https://www.testedesenha.com.br/ e clique em "Testar Senha"
+
+3. Cole o código Python em um editor de texto de sua preferência (como Visual Studio Code) e salve como um arquivo .py, por exemplo gerador_senha.py
+
+4. Abra o terminal/prompt de comando na pasta onde salvou o arquivo e execute:
+
+```
+python gerador_senha.py
+```
+
+5. Insira o tamanho de senha desejado quando solicitado.
+
+6. Copie a senha gerada pelo programa.
+
+7. Volte ao site testedesenha.com.br, cole a senha no campo "Senha" e clique em "Avaliar Senha".
+
+8. O site irá analisar e avaliar a força da senha gerada pelo programa Python.
+
+9. Repita o processo para diferentes tamanhos de senha e veja como a pontuação de segurança irá aumentar conforme o tamanho.
+
+Dessa forma você poderá verificar na prática a eficiência do gerador de senhas aleatórias e testar a segurança das senhas produzidas.
 
 
 Contribuindo
