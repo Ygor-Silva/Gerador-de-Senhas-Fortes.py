@@ -1,6 +1,8 @@
 # Gerador de Senhas Fortes
 
-Este programa em Python gera senhas fortes aleatórias com alta segurança.
+## Propósito
+
+Ter senhas realmente fortes e imprevisíveis é essencial para segurança. Este gerador visa tornar trivial a geração de senhas que são muito difíceis de serem advinhadas ou quebradas por força bruta.
 
 ## Funcionalidades
 
@@ -39,10 +41,6 @@ Por fim, o código principal pede o tamanho da senha ao usuário e exibe o resul
 Você pode testar uma demo interativa online do gerador de senhas fortes aqui:
 
 https://repl.it/@seunome/strong-password-generator-python
-
-
-Propósito
-Ter senhas realmente fortes e imprevisíveis é essencial para segurança. Este gerador visa tornar trivial a geração de senhas que são muito difíceis de serem advinhadas ou quebradas por força bruta.
 
 
 
